@@ -15,3 +15,4 @@ E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.pdb
 E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.genruntimeconfig.cache
 E:\Develop\SameDelete\obj\Debug\net6.0-windows\ref\SameDelete.dll
 E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.SameDelete.resources
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.Properties.Resources.resources
