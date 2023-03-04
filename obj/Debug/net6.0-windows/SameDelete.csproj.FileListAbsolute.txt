@@ -1,0 +1,17 @@
+E:\Develop\SameDelete\bin\Debug\net6.0-windows\SameDelete.exe
+E:\Develop\SameDelete\bin\Debug\net6.0-windows\SameDelete.deps.json
+E:\Develop\SameDelete\bin\Debug\net6.0-windows\SameDelete.runtimeconfig.json
+E:\Develop\SameDelete\bin\Debug\net6.0-windows\SameDelete.dll
+E:\Develop\SameDelete\bin\Debug\net6.0-windows\SameDelete.pdb
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.csproj.AssemblyReference.cache
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.csproj.GenerateResource.cache
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.GeneratedMSBuildEditorConfig.editorconfig
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.AssemblyInfoInputs.cache
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.AssemblyInfo.cs
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.csproj.CoreCompileInputs.cache
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.dll
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\refint\SameDelete.dll
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.pdb
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.genruntimeconfig.cache
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\ref\SameDelete.dll
+E:\Develop\SameDelete\obj\Debug\net6.0-windows\SameDelete.SameDelete.resources
