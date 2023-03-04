@@ -1,5 +1,4 @@
-# SameDelete
-
+# SameDelete:相同文件删除
 
 # 作用
 
